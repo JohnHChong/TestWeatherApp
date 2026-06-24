@@ -1,6 +1,9 @@
 I used a tutorial website to build a simple weather app website. 
 Link = https://www.freecodecamp.org/news/how-to-build-a-website-from-scratch-start-to-finish-walkthrough
 
+Geocode API website = https://open-meteo.com/en/docs/geocoding-api
+weather forecast API website = https://open-meteo.com/en/docs
+
 However the Author left errors to be fixed.
 
 The author creates a constant variable named weatherCondition but fails to define weatherDescriptions.
